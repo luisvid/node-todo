@@ -1,0 +1,6 @@
+
+Setting Bitnami application password to 'HdikK8JHZsuE'
+
+ec2-54-149-194-114.us-west-2.compute.amazonaws.com
+
+ssh -l bitnami -i todoec2test.pem ec2-54-149-194-114.us-west-2.compute.amazonaws.com
