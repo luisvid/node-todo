@@ -1,6 +1,12 @@
 
 Setting Bitnami application password to 'HdikK8JHZsuE'
 
+//url server
 ec2-54-149-194-114.us-west-2.compute.amazonaws.com
+ec2-54-149-194-114.us-west-2.compute.amazonaws.com:8080
 
+//desde la carpeta resources para conectarse al server
 ssh -l bitnami -i todoec2test.pem ec2-54-149-194-114.us-west-2.compute.amazonaws.com
+
+//Mongo
+sudo mongo admin --username root --password HdikK8JHZsuE
